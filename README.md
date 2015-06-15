@@ -1,5 +1,9 @@
 # door-opener
 
+A small Twilio app for a phone number that can be used to answer calls from a
+building's intercom system. It opens the door if the person knows the correct
+PIN.
+
 ## setup
 
 ### install dependencies
